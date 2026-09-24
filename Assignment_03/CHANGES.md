@@ -40,7 +40,7 @@ Record **every** prompt where AI helped. If you wrote a part yourself, say so in
 | 6 | Asked AI to carefully explain how to complete the `receipt()`, `build_orders()`, and `refactored_main()` sections while keeping the original behaviour unchanged. | Explained the purpose and structure of each section and how they connect the refactored classes. | Accepted | Read and checked the explanation against the code and assignment requirements. |
 **Ownership statement.** *By submitting, I confirm I understand and can explain every line of code I submitted, and that this prompt log reflects my actual AI use.*
 
----
+-S-A-I-
 
 ## 4 · Before-you-submit checklist
 
@@ -50,4 +50,4 @@ Record **every** prompt where AI helped. If you wrote a part yourself, say so in
 - [x] Calculation methods **return** values and do not `print`; printing is separate.
 - [x] Constructors validate state; no leftover `global`; magic numbers are named.
 - [x] The change table and reflection above are filled in.
-- [ ] The prompt log is complete and the ownership statement is signed.
+- [x] The prompt log is complete and the ownership statement is signed.
